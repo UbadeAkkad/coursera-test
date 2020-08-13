@@ -44,6 +44,9 @@ body {
     margin-bottom: 15px;
 }
 
+.navbar-default .navbar-toggle .icon-bar{
+    background-color: white;
+}
 #nav-list{
     margin-top: 0;
     margin-bottom: 0;
@@ -56,8 +59,7 @@ body {
 }
 #nav-list div{
     color: black;
-    text-align: center;
-    font-size: 1.5em;
+    font-size: 1.8em;
 }
 #nav-list a{
     background-color: white;
